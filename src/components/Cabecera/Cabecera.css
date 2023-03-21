@@ -1,12 +1,11 @@
 .cabecera{
     width: 100%;
-    background-color: aqua;
+    background-color: white;
 }
 .cabecera__wrapper{
     margin: 0 auto;
     padding: 40px 20px;
     max-width: 105rem;
-    background-color: orange;
     display: flex;
 
     justify-content: space-between;
