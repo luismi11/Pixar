@@ -1,0 +1,26 @@
+.cabecera{
+    width: 100%;
+    background-color: aqua;
+}
+.cabecera__wrapper{
+    margin: 0 auto;
+    padding: 40px 20px;
+    max-width: 105rem;
+    background-color: orange;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+}
+.cabecera__img{
+    width: 8%;
+}
+.cabecera__ul{
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+.cabecera__li{
+    margin-left: 2em;
+}

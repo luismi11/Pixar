@@ -1,0 +1,17 @@
+.Slider{
+    width: 100%;
+    background-color: greenyellow;
+    background: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1651873359781-K4V6ZBW4T8FQOGFOMSMZ/Light_header.jpg?format=2500w') no-repeat right center / cover;
+}
+.Slider__wrapper{
+    margin: 0 auto;
+    max-width: 105rem;
+    display: flex;
+
+    justify-content: flex-start;
+    align-items: center;
+}
+.Slider__img{
+    padding: 250px 100px;
+    width: 50%;
+}
